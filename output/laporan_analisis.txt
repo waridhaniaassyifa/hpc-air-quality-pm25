@@ -1,0 +1,11 @@
+LAPORAN ANALISIS DATA PENJUALAN
+
+Total pendapatan toko mencapai Rp295,000.
+Total produk terjual sebanyak 74 unit.
+Pulpen memiliki jumlah unit terjual tertinggi.
+Buku menghasilkan pendapatan terbesar.
+
+REKOMENDASI
+Evaluasi stok Pulpen agar persediaannya cukup.
+Evaluasi strategi penjualan Buku.
+Periksa data transaksi secara berkala untuk menghindari data kosong dan duplikat.
