@@ -1,6 +1,6 @@
 # **Prediksi Kualitas Udara (PM2.5) Berbasis High Performance Computing (HPC) & Deep Learning**
 
-## Proyek ini merupakan implementasi studi kasus pelatihan model Deep Learning (PyTorch) untuk memprediksi tingkat konsentrasi partikulat polusi udara (PM2.5) menggunakan data indikator cuaca lokal. Skrip dirancang agar fleksibel dan dapat dieksekusi baik di lingkungan lokal (pengujian) maupun pada klaster High Performance Computing (HPC) berbasis manajemen pekerjaan SLURM.
+Proyek ini merupakan implementasi studi kasus pembelajaran berdasarkan materi “Career and Competition in Industrial Era” oleh Widi Primadepa dari City Care Property, Christchurch, Selandia Baru, mengenai pelatihan model Deep Learning (PyTorch) untuk memprediksi tingkat konsentrasi partikulat polusi udara (PM2.5) menggunakan data indikator cuaca lokal. Skrip dirancang agar fleksibel dan dapat dieksekusi baik di lingkungan lokal (pengujian) maupun pada klaster High Performance Computing (HPC) berbasis manajemen pekerjaan SLURM.
 
 **💡 Latar Belakang & Inspirasi**
 
