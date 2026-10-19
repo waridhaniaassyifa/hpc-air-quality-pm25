@@ -1,12 +1,10 @@
 # **Prediksi Kualitas Udara (PM2.5) Berbasis High Performance Computing (HPC) & Deep Learning**
 
-Proyek ini merupakan implementasi studi kasus pembelajaran berdasarkan materi “Career and Competition in Industrial Era” oleh Widi Primadepa dari City Care Property, Christchurch, Selandia Baru, mengenai pelatihan model Deep Learning (PyTorch) untuk memprediksi tingkat konsentrasi partikulat polusi udara (PM2.5) menggunakan data indikator cuaca lokal. Skrip dirancang agar fleksibel dan dapat dieksekusi baik di lingkungan lokal (pengujian) maupun pada klaster High Performance Computing (HPC) berbasis manajemen pekerjaan SLURM.
+Proyek ini merupakan implementasi studi kasus pembelajaran berdasarkan materi “Bridging Global Infrastructure to Address Local Challenge with HPC” oleh Worawan Diaz Carballo dari Thammasat University, Thailand. Proyek ini berfokus pada pelatihan model Deep Learning menggunakan PyTorch untuk memprediksi konsentrasi partikulat polusi udara (PM2.5) berdasarkan indikator cuaca lokal. Skrip dirancang agar fleksibel dan dapat dijalankan di lingkungan lokal untuk pengujian maupun pada klaster High Performance Computing (HPC) dengan sistem manajemen pekerjaan SLURM.
 
 **💡 Latar Belakang & Inspirasi**
 
 Polusi udara lokal, khususnya partikulat PM2.5, merupakan salah satu tantangan lingkungan dan kesehatan masyarakat yang krusial. Pengolahan data sensor berskala besar serta pelatihan model kecerdasan buatan (Artificial Intelligence) memerlukan sumber daya komputasi yang besar dan efisien.
-
-Proyek ini terinspirasi dari materi Kuliah Praktisi "Bridging Global Infrastructure to Address Local Challenge with HPC" oleh Worawan Diaz Carballo (Thammasat University, Thailand), yang menekankan pentingnya peran integrator dalam menjembatani teknologi komputasi berkinerja tinggi untuk mengatasi permasalahan nyata di tingkat lokal.
 
 **🔄 Alur Kerja Integrator (Integrator Workflow)**
 
